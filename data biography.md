@@ -55,32 +55,54 @@ Firstly, this data combined with data of house price and rental rate can be appl
 ### 7. Which of the uses presented in Q.6 are _ethical_?
 
 In conclusion, analyses of the impact of Airbnb home-sharing on housing markets, the impact of Airbnb on gentrification, the impact of Airbnb on racial discrimination, and supervision on Airbnb (short-term rentals (STRs)) are ethical.
+
 Firstly, Barron et al. (2018), Horn & Merante (2017), Shabrina et al. (2019), and Wachsmuth et al. (2018) discovered positive correlation between Airbnb listings and rents.
+
 Secondly, Airbnb-induced growing disparity between short-term and long-term rents is driving continuous housing loss in long-term rental market and gentrification [17, 18]. Shabrina et al. (2017) conducted spatiotemporal analysis and quantitively discovered that ‘Airbnb tends to be located in or adjacent to areas with rapid gentrification’. Cocola-Gant and Gago (2019) conducted informal interviews with residents, shop keepers, real estate agents, landlords and STR property managers, qualitatively related Airbnb to an impulse on gentrification.
+
 Thirdly, on Airbnb white neighborhoods earn more than non-white neighborhoods, and in black neighborhoods white hosts earn more than black hosts [17]. Cheng and Foley (2018) analyzed whether there is racial discrimination when guests select hosts.
-Fourthly, Cox and Slee (2016) blamed Airbnb for not interfering hosts with multiple rooms, by showing data of listings before and after Airbnb’s public data release as proof that Airbnb was covering the actual number and percentage by artificially deleting listings from its website right before releasing open data to the public. Cocola-Gant and Gago (2019) even aggressively defined Airbnb as platform for ‘buy-to-let investment’, leading to problems of ‘increasing insecurity and displacement concerns’ for tenants. 
+
+Fourthly, Cox and Slee (2016) blamed Airbnb for not interfering hosts with multiple rooms, by showing data of listings before and after Airbnb’s public data release as proof that Airbnb was covering the actual number and percentage by artificially deleting listings from its website right before releasing open data to the public. Cocola-Gant and Gago (2019) even aggressively defined Airbnb as platform for ‘buy-to-let investment’, leading to problems of ‘increasing insecurity and displacement concerns’ for tenants.
+
 These analyses, overlapping and interrelated, are ethical. Although their entry points seemingly vary --higher house prices and rents, expanding and accelerating gentrification, exacerbating racial discrimination, lacking supervision, the underlying further attempt is the same --focusing on low-income groups [9, 14] and racial stereotype [2], advocating social justice and using valid data to analyze whether Airbnb intensified social inequality and segregation. With academic foundation built up, attention from public, urban planners and government will be raised, laws and regulations on STRs will be refined, and social justice will be enhanced.
 
 
 ## Bibliography
 
 [1] Barron, K., E. Kung, and D. Proserpio. 2018. “The Sharing Economy and Housing Affordability: Evidence from Airbnb.”
+
 [2] Cheng, M., and C. Foley. 2018. “The Sharing Economy and Digital Discrimination: The Case of Airbnb.” International Journal of Hospitality Management 70: 95–98.
+
 [3] Cocola-Gant, A., and A. Gago. 2019. “Airbnb, Buy-to-Let Investment and Tourism-Driven Displacement: A Case Study in Lisbon.” Environment and Planning A: Economy and Space 0 (0): 1–18.
+
 [4] Cox, M., and T. Slee. 2016. “How Airbnb’s Data Hid the Facts in New York City.” Inside Airbnb.
+
 [5] D’Ignazio, C., & Klein, L. 2018. Chapter 6: The Numbers Don’t Speak for Themselves. Data Feminism.
+
 [6] Ert, E., A. Fleischer, and N. Magen. 2016. “Trust and Reputation in the Sharing Economy: The Role of Personal Photos in Airbnb.” Tourism Management, 55: 62–63.
+
 [7] Eugenio-Martin, J. L., J. M. Cazorla-Artiles, and C. Gonzàlez-Martel. 2019. “On the Determinants of Airbnb Location and Its Spatial Distribution.” Tourism Economics 25 (8): 1224–4.
-[8] Gibbs, C., D. Guttentag, U. Gretzel, J. Morton, and A. Goodwill. 2017. “Pricing in the Sharing Economy: A Hedonic Pricing Model Applied to Airbnb Listings.” Journal of Travel & Tourism Marketing 35 (1): 46–56. 
+
+[8] Gibbs, C., D. Guttentag, U. Gretzel, J. Morton, and A. Goodwill. 2017. “Pricing in the Sharing Economy: A Hedonic Pricing Model Applied to Airbnb Listings.” Journal of Travel & Tourism Marketing 35 (1): 46–56.
+
 [9] Gurran, N., and P. Phibbs. 2017. “When Tourists Move in: How Should Urban Planners Respond to Airbnb?” Journal of the American Planning Association 83 (1): 80–92.
+
 [10] Gutiérrez, J., J. C. Garcı́a-Palomares, G. Romanillos, and M. H. Salas-Olmedo. 2017. “The Eruption of Airbnb in Tourist Cities: Comparing Spatial Patterns of Hotels and Peer-to-Peer Accommodation in Barcelona.” Tourism Management 62: 278–91.
+
 [11] Horn, K., and M. Merante. 2017. “Is Home Sharing Driving up Rents? Evidence from Airbnb in Boston.” Journal of Housing Economics 38: 14–24.
+
 [12] Inside Airbnb. 2021. ‘Disclaimers, The Occupancy Model’ (WWW) (http://insideairbnb.com/; 19 November 2021)
+
 [13] Lavin, Matthew J. 2019. “Analyzing Documents with Tf-Idf.” The Programming Historian, no. 8.
+
 [14] Lee, D. 2016. “How Airbnb Short-Term Rentals Exacerbate Los Angeles’s Affordable Housing Crisis: Analysis and Policy Recommendations.” Harvard Law & Policy Review 10 (1): 229–54.
+
 [15] Shabrina, Z., E. Arcaute, and M. Batty. 2019. “Airbnb’s Disruption of the Housing Structure in London.” ArXiv Prepring. University College London.
+
 [16] Shabrina, Z., Y. Zhang, E. Arcaute, and M. Batty. 2017. “Beyond Informality: The Rise of Peer-to-Peer (P2p) Renting.” CASA Working Paper 209. University College London.
+
 [17] Wachsmuth, D., D. Chaney, D. Kerrigan, A. Shillolo, and R. Basalaev-Binder. 2018. “The High Cost of Short-Term Rentals in New York City.” McGill University.
+
 [18] Wachsmuth, D., and A. Weisler. 2018. “Airbnb and the Rent Gap: Gentrification Through the Sharing Economy.” Environment and Planning A: Economy and Space 50 (6): 1147–70.
 
 

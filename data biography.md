@@ -34,7 +34,7 @@ The data was collected by combining directly collection with modification. For e
 
 ### 4. What useful information does it contain?
 
-It contains ‘host¬_picture_url’ leading to hosts’ pictures, which support analysis of whether there is racial preference or discrimination when guests select hosts [2]. ‘Latitude’ and ‘longitude’ contain location of each listing. Airbnb location can be applied to analysis as both dependent variable [7] and independent variable [8]. By categorizing ‘room_type’, ‘accommodates’, ‘bathrooms’ and ‘bedrooms’ as ‘Listing Characteristics’; ‘host_is_superhost’ and ‘host_total_listings_count’ as ’Host Characteristics’, together with ‘instant_bookable’, ‘amenities’, ‘number_of_reviews’, all the above can be used as independent variables to analyze their correlation with ‘price’ [8]. ‘Description’ contains key words like ‘distance’, which can be detected with text mining [13] and applied to analysis of correlation between ‘distance to public transportation’ and ‘price’.
+It contains ‘host_picture_url’ leading to hosts’ pictures, which support analysis of whether there is racial preference or discrimination when guests select hosts [2]. ‘Latitude’ and ‘longitude’ contain location of each listing. Airbnb location can be applied to analysis as both dependent variable [7] and independent variable [8]. By categorizing ‘room_type’, ‘accommodates’, ‘bathrooms’ and ‘bedrooms’ as ‘Listing Characteristics’; ‘host_is_superhost’ and ‘host_total_listings_count’ as ’Host Characteristics’, together with ‘instant_bookable’, ‘amenities’, ‘number_of_reviews’, all the above can be used as independent variables to analyze their correlation with ‘price’ [8]. ‘Description’ contains key words like ‘distance’, which can be detected with text mining [13] and applied to analysis of correlation between ‘distance to public transportation’ and ‘price’.
 
 ---
 
@@ -47,13 +47,19 @@ Therefore, we should be very careful and critical with incomplete data. It is a 
 
 ### 6. What kinds of analysis would this support?
 
-#### 200 words; 15 points; Given the issues discussed above, what kinds of analysis would this data support?
+Firstly, this data combined with data of house price and rental rate can be applied to analysis of the impact of home-sharing on residential house prices and rents [1, 11, 15]. Secondly, using data ‘host_picture_url’ in listings combined with bookings/ estimated bookings as an alternative of text mining [13] to distinguish races, we can analyze whether Airbnb aggravated racial discrimination [2]. We can also analyze whether consumers pick more trustworthy hosts from their photos [6]. Thirdly, location data (longitude and latitude) can support analysis of Airbnb locations’ spatial distribution patterns [16, 17, 18] and its determinants [7], and can also be used as independent variable combined with other independent variables (e.g. room characteristic, host characteristic) to support analysis of determinants of Airbnb pricing [8]. Location of the data combined with location data of hotels can be applied to analysis of correlation of spatial distribution patterns between Airbnb listings and hotels [10].
 
 ---
 
 ### 7. Which of the uses presented in Q.6 are _ethical_?
 
-#### 350 words; 35 points; Which of the uses presented in Q.6 are ethical?  Justify the ethics of these analyses with reference to examples drawn from both your earlier answers and to the literature. 35 points
+In conclusion, analyses of the impact of Airbnb home-sharing on housing markets, the impact of Airbnb on gentrification, the impact of Airbnb on racial discrimination, and supervision on Airbnb (short-term rentals (STRs)) are ethical.
+Firstly, Barron et al. (2018), Horn & Merante (2017), Shabrina et al. (2019), and Wachsmuth et al. (2018) discovered positive correlation between Airbnb listings and rents.
+Secondly, Airbnb-induced growing disparity between short-term and long-term rents is driving continuous housing loss in long-term rental market and gentrification [17, 18]. Shabrina et al. (2017) conducted spatiotemporal analysis and quantitively discovered that ‘Airbnb tends to be located in or adjacent to areas with rapid gentrification’. Cocola-Gant and Gago (2019) conducted informal interviews with residents, shop keepers, real estate agents, landlords and STR property managers, qualitatively related Airbnb to an impulse on gentrification.
+Thirdly, on Airbnb white neighborhoods earn more than non-white neighborhoods, and in black neighborhoods white hosts earn more than black hosts [17]. Cheng and Foley (2018) analyzed whether there is racial discrimination when guests select hosts.
+Fourthly, Cox and Slee (2016) blamed Airbnb for not interfering hosts with multiple rooms, by showing data of listings before and after Airbnb’s public data release as proof that Airbnb was covering the actual number and percentage by artificially deleting listings from its website right before releasing open data to the public. Cocola-Gant and Gago (2019) even aggressively defined Airbnb as platform for ‘buy-to-let investment’, leading to problems of ‘increasing insecurity and displacement concerns’ for tenants. 
+These analyses, overlapping and interrelated, are ethical. Although their entry points seemingly vary --higher house prices and rents, expanding and accelerating gentrification, exacerbating racial discrimination, lacking supervision, the underlying further attempt is the same --focusing on low-income groups [9, 14] and racial stereotype [2], advocating social justice and using valid data to analyze whether Airbnb intensified social inequality and segregation. With academic foundation built up, attention from public, urban planners and government will be raised, laws and regulations on STRs will be refined, and social justice will be enhanced.
+
 
 ## Bibliography
 

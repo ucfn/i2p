@@ -63,5 +63,24 @@ These analyses, overlapping and interrelated, are ethical. Although their entry 
 
 ## Bibliography
 
+[1] Barron, K., E. Kung, and D. Proserpio. 2018. “The Sharing Economy and Housing Affordability: Evidence from Airbnb.”
+[2] Cheng, M., and C. Foley. 2018. “The Sharing Economy and Digital Discrimination: The Case of Airbnb.” International Journal of Hospitality Management 70: 95–98.
+[3] Cocola-Gant, A., and A. Gago. 2019. “Airbnb, Buy-to-Let Investment and Tourism-Driven Displacement: A Case Study in Lisbon.” Environment and Planning A: Economy and Space 0 (0): 1–18.
+[4] Cox, M., and T. Slee. 2016. “How Airbnb’s Data Hid the Facts in New York City.” Inside Airbnb.
+[5] D’Ignazio, C., & Klein, L. 2018. Chapter 6: The Numbers Don’t Speak for Themselves. Data Feminism.
+[6] Ert, E., A. Fleischer, and N. Magen. 2016. “Trust and Reputation in the Sharing Economy: The Role of Personal Photos in Airbnb.” Tourism Management, 55: 62–63.
+[7] Eugenio-Martin, J. L., J. M. Cazorla-Artiles, and C. Gonzàlez-Martel. 2019. “On the Determinants of Airbnb Location and Its Spatial Distribution.” Tourism Economics 25 (8): 1224–4.
+[8] Gibbs, C., D. Guttentag, U. Gretzel, J. Morton, and A. Goodwill. 2017. “Pricing in the Sharing Economy: A Hedonic Pricing Model Applied to Airbnb Listings.” Journal of Travel & Tourism Marketing 35 (1): 46–56. 
+[9] Gurran, N., and P. Phibbs. 2017. “When Tourists Move in: How Should Urban Planners Respond to Airbnb?” Journal of the American Planning Association 83 (1): 80–92.
+[10] Gutiérrez, J., J. C. Garcı́a-Palomares, G. Romanillos, and M. H. Salas-Olmedo. 2017. “The Eruption of Airbnb in Tourist Cities: Comparing Spatial Patterns of Hotels and Peer-to-Peer Accommodation in Barcelona.” Tourism Management 62: 278–91.
+[11] Horn, K., and M. Merante. 2017. “Is Home Sharing Driving up Rents? Evidence from Airbnb in Boston.” Journal of Housing Economics 38: 14–24.
+[12] Inside Airbnb. 2021. ‘Disclaimers, The Occupancy Model’ (WWW) (http://insideairbnb.com/; 19 November 2021)
+[13] Lavin, Matthew J. 2019. “Analyzing Documents with Tf-Idf.” The Programming Historian, no. 8.
+[14] Lee, D. 2016. “How Airbnb Short-Term Rentals Exacerbate Los Angeles’s Affordable Housing Crisis: Analysis and Policy Recommendations.” Harvard Law & Policy Review 10 (1): 229–54.
+[15] Shabrina, Z., E. Arcaute, and M. Batty. 2019. “Airbnb’s Disruption of the Housing Structure in London.” ArXiv Prepring. University College London.
+[16] Shabrina, Z., Y. Zhang, E. Arcaute, and M. Batty. 2017. “Beyond Informality: The Rise of Peer-to-Peer (P2p) Renting.” CASA Working Paper 209. University College London.
+[17] Wachsmuth, D., D. Chaney, D. Kerrigan, A. Shillolo, and R. Basalaev-Binder. 2018. “The High Cost of Short-Term Rentals in New York City.” McGill University.
+[18] Wachsmuth, D., and A. Weisler. 2018. “Airbnb and the Rent Gap: Gentrification Through the Sharing Economy.” Environment and Planning A: Economy and Space 50 (6): 1147–70.
+
 
 ## Appendix 

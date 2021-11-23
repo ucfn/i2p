@@ -16,7 +16,8 @@ _Please write your answer immediately below the level-3 headers and delete the g
 
 ### 1. Who collected the data?
 
-#### 25 words; 2 points; Consider the source of the data and its relation to the underlying data generating process.
+Inside Airbnb collected the data from Airbnb web-site (the source). Therefore, Inside Airbnb should be critical about the data when conducting generating process.![image](https://user-images.githubusercontent.com/91901776/143143362-6f512ef9-b0f6-4e2b-9a93-dc900787c769.png)
+
 
 ---
 

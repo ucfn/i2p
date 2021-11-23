@@ -2,9 +2,9 @@
 
 ### Declaration of Authorship
 
-I, [insert your name], confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+I, [Yujun Yuan], confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
-['Sign' your name here]
+[Yujun Yuan]
 
 Date of signature: 
 Assessment due date: 

@@ -23,7 +23,7 @@ Inside Airbnb collected the data from Airbnb web-site (the source). Therefore, I
 
 ### 2. Why did they collect it?
 
-#### 50 words, 4 points; Consider the purposes for which the data was collected and how this might shape its form/content.
+The data was collected for giving people quantitative cognition of the impacts of short-term rentals on housing and residential communities, to protect cities from the impacts [12]. So the data might include content like “how often an Airbnb listing is being rented out”, or “a listing's income”, for comparison with long-term rentals.
 
 ---
 

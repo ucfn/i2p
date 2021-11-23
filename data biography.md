@@ -64,7 +64,6 @@ These analyses, overlapping and interrelated, are ethical. Although their entry 
 ## Bibliography
 
 [1] Barron, K., E. Kung, and D. Proserpio. 2018. “The Sharing Economy and Housing Affordability: Evidence from Airbnb.”
-
 [2] Cheng, M., and C. Foley. 2018. “The Sharing Economy and Digital Discrimination: The Case of Airbnb.” International Journal of Hospitality Management 70: 95–98.
 [3] Cocola-Gant, A., and A. Gago. 2019. “Airbnb, Buy-to-Let Investment and Tourism-Driven Displacement: A Case Study in Lisbon.” Environment and Planning A: Economy and Space 0 (0): 1–18.
 [4] Cox, M., and T. Slee. 2016. “How Airbnb’s Data Hid the Facts in New York City.” Inside Airbnb.

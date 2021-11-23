@@ -41,6 +41,7 @@ It contains ‘host_picture_url’ leading to hosts’ pictures, which support a
 ### 5. To what extent is the data 'complete'?
 
 ‘Describing’ this dataset in python, it’s not hard to notice that some variables have much lower ‘Non-Null Count’ (e.g. ‘host_about’ has only 42494 ‘Non-Null Count’ in 74187 listings). In other words, these variables contain large proportion of missing values, for which we should look closely into and be careful when using them in analyses. For example, ‘host_about’ might contain information which can be applied to text mining methodology to analyze the correlation between key words in ‘host_about’ and variable of ‘price’. But even if we really want to look into that, it is crucial for us data analysts to think about the probable reasons for missing values. Some possible explanations behind missing values in ‘host_about’ can be raised --is that hosts hiding something (e.g. disability, race, sexual orientation) from guests or Airbnb in order to get rid of segregation impeding their renting, or, Airbnb hiding true data from data analysts advocating equality in order not to be condemned for exacerbating social inequality (e.g. 80% of the hosts are white) [5].
+
 Therefore, we should be very careful and critical with incomplete data. It is a pre-requisite to ask ourselves would we draw a fair conclusion or just a biased one in use of incomplete data, why or why not, rather than using variables blindly by simply dropping the nulls, regardless of the potential effect (e.g. unreliable/ unconvincing results) that might arise.
 
 ---
